@@ -1,6 +1,5 @@
 # square_approximation
 
-(SHIT SHOW AWARENESS)
 
 code is pretty self explanatory and decently commented
 
